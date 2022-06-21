@@ -1,7 +1,6 @@
 ### olá 👋
 Meu nome é **Luiz Fernando**
 
-
 *estou aprendendo a trabalhar com a linguagem Java Scrip*
 
 
