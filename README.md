@@ -1,4 +1,4 @@
-### olá 
+### olá :wave:
 Meu nome é **Luiz Fernando**
 :hot_face:
 
