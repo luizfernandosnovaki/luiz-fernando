@@ -1,5 +1,6 @@
-### olá 👋 :sweat_drops:
+### olá 
 Meu nome é **Luiz Fernando**
+:hot_face:
 
 ***estou aprendendo a trabalhar com a linguagem Java Scrip***
 
