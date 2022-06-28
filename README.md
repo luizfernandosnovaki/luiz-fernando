@@ -11,4 +11,4 @@ Meu nome é **Luiz Fernando**
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
 
-***estou interessado em aprender novas linguagens de programação***
+*estou interessado em aprender novas linguagens de programação*
